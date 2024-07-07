@@ -1,0 +1,2 @@
+# FACE RECOGNITION
+The system will employ face detection to locate faces using algorithms that analyze facial features like eyes and mouth. This initial step is crucial for subsequent processes such as alignment, feature extraction, and recognition. The goal is to create a robust system applicable to real-time scenarios, potentially enhancing security systems, personalized user experiences, and mobile applications.
